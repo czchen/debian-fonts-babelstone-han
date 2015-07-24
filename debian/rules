@@ -2,5 +2,11 @@
 # You must remove unused comment lines for the released package.
 #export DH_VERBOSE = 1
 
+DIR=$(CURDIR)/debian/fonts-babelstone-han/usr/share/fonts/truetype/babelstone
+
 %:
 	dh $@
+
+override_dh_install:
+	mkdir -p $(DIR)
+	cp BabelStoneHan.ttf $(DIR)
