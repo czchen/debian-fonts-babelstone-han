@@ -1,0 +1,6 @@
+fonts-babelstone-han (8.0.0-1) UNRELEASED; urgency=low
+
+  * Initial release. Closes: #nnnn
+    <nnnn is the bug number of your ITP>
+
+ -- ChangZhuo Chen (陳昌倬) <czchen@gmail.com>  Fri, 24 Jul 2015 23:18:19 +0800
