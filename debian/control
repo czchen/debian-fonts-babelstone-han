@@ -6,6 +6,8 @@ Uploaders: ChangZhuo Chen (陳昌倬) <czchen@gmail.com>,
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.6
 Homepage: http://www.babelstone.co.uk/Fonts/
+Vcs-Git: git://anonscm.debian.org/pkg-fonts/fonts-babelstone-han.git
+Vcs-Browser: http://anonscm.debian.org/cgit/pkg-fonts/fonts-babelstone-han.git
 
 Package: fonts-babelstone-han
 Architecture: all
